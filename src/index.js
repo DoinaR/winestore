@@ -6,9 +6,6 @@ import { ProductsProvider } from './context/products_context'
 import { CartProvider } from './context/cart_context'
 import { Auth0Provider } from '@auth0/auth0-react'
 
-//dev-8f69yeac.us.auth0.com
-//fQvbP7QwrhDdAskAgtUPcfCk2rWmrNeT
-
 ReactDOM.render(
   <Auth0Provider
     domain='dev-pu8wyk-g.us.auth0.com'
